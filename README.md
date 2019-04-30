@@ -1,6 +1,11 @@
 # HTML5 Semantic Elements
 
-## Problem Statement
+## Learning Goals
+
+- Discuss the historical reasoning behind semantic elements
+- Use HTML5 semantic elements
+
+## Introduction
 
 We have `div` elements to organize and label sections of HTML. But too many
 `div` tags makes our HTML document look cluttered and confusing. Even when we
@@ -11,12 +16,7 @@ elements come in. They allow us to say, "this isn't _just_ a division of text,
 it's a _header_." We'll learn more about these _semantic_ elements in this
 lesson.
 
-## Objectives
-
-1. Explain the historical reasoning behind semantic elements
-2. Demonstrate HTML5 semantic element use
-
-## Explain the Historical Reasoning Behind Semantic Elements
+## Discuss the Historical Reasoning Behind Semantic Elements
 
 When developers first began defining containers to structure HTML, they had only
 one generic element available to them: the `div`. Creating complex page layouts
@@ -66,7 +66,7 @@ we use when the content within the element all has the same related _meaning_.
 In our `header` example above, all the content we would put within the `header`
 element would relate to introductory content, such as titles or navigation.
 
-## Demonstrate HTML5 Semantic Element Use
+## Use HTML5 Semantic Elements
 
 Let's take a layout that uses `div` elements and convert it to use semantic
 elements instead. This is the markup we begin with:
@@ -128,5 +128,3 @@ generic boxes or grouping elements as needed.
 - [HTML5 Semantic Elements Lecture Video](https://www.youtube.com/embed/V28xLFEYaSQ)
 - [Dive into HTML5 - Semantic Elements](http://diveintohtml5.info/semantics.html#new-elements)
 - [MDN - HTML - Element Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/HTML5-Semantic-Elements' title='HTML5 Semantic Elements'>HTML5 Semantic Elements</a> on Learn.co and start learning to code for free.</p>
